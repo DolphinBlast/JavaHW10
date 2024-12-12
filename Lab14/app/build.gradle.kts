@@ -5,11 +5,11 @@ plugins {
 
 android {
     namespace = "com.dolphinblast.lab14"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "com.dolphinblast.lab14"
-        minSdk = 25
+        minSdk = 24
         targetSdk = 34
         versionCode = 1
         versionName = "1.0"
